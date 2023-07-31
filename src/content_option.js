@@ -158,6 +158,7 @@ const socialprofils = {
     facebook: "https://facebook.com",
     linkedin: "https://www.linkedin.com/in/aiden-brown-98724225a/",
     twitter: "https://twitter.com",
+    dice: "https://www.dice.com/dashboard/profiles",
 };
 export {
     meta,
